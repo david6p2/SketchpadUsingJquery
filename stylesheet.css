@@ -5,6 +5,7 @@ h2 {
 
 .container {
 	
+
 	border-style: solid;
     border-color: yellow;
     border-width: thin;
@@ -48,11 +49,11 @@ h2 {
 
 }
 
-.button{
+.button, .colorButton, .BWbutton, .newGrid {
     
     height:20px;
-	width:100px;
-	background-color:#cc0000;
+	width:150px;
+	background-color:#9C27B0;
 	font-family:arial;
 	font-weight:normal;
 	color:#ffffff;
@@ -60,3 +61,6 @@ h2 {
 	text-align:center;
 	margin-top:2px;
 }
+
+
+
