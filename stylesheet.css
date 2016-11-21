@@ -54,6 +54,9 @@ h2 {
     /* background-color: white; */
 
 }
+.button{
+    display: inline;
+}
 
 .button, .colorButton, .BWbutton, .newGrid {
     
