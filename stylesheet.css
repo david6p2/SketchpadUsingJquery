@@ -36,14 +36,15 @@ h2 {
 
 .square {
 
-    display: inline-block;
+    display: table-cell;
     background-color: white;
-    /* background-color: white; */
+    /* background-color: white; 
     padding: 10px;
+    margin: 0;*/
     border-style: solid;
     border-color: black;
     border-width: thin;
-    margin: 0;
+    
 }
 
 .change {
