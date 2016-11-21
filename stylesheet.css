@@ -21,12 +21,13 @@ h2 {
 .square-line {
 
  
-    display: table;
-    background-color: green;
-    /* background-color: white; */
+    display: table-row;
+    width:600px;
+    /*background-color: green;
+    background-color: white;
     border-style: solid;
     border-color: red;
-    border-width: thin;
+    border-width: thin;*/
     margin: 0;
     padding: 0;
 
