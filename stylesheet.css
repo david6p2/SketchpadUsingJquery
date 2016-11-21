@@ -9,15 +9,14 @@ h2 {
           box-sizing: border-box;
 }
 .container {
-	
-
 	border-style: solid;
     border-color: yellow;
     border-width: thin;
     display: table;
     margin: 0;
     padding: 0;
-
+    width:600px;
+    height: 600px;
 }
 .square-line {
 
